@@ -1,3 +1,5 @@
+In directoriul src/main/java sunt create 2 clase Lab1 si lab 2
+
 1 Laborator
   - Am creat in Spring o pagina in care te intreaba virsta si numele, in dependenta de virsta care o ai , iti permite sau nu sa intri pe site.
   
