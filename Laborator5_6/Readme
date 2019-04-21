@@ -1,0 +1,2 @@
+Am creat API in Spring care inregistreaza un student in baza de date h2, sterge, extrage info despre student si face update.
+Prin POSTMAN am testat API, screen-urile sunt atasate
